@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/Hallef-Ferreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hallef-Ferreira&show_icons=True&theme=dark&include_all_commits=false&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Hallef-Ferreira&show_icons=True&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hallef-Ferreira&layout=compact&langs_count=7&theme=dark"/>
   
 </div>
