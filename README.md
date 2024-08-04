@@ -1,4 +1,4 @@
-### Olá! Eu sou o Hallef Ferreira
+### Olá! Eu sou o Hallef Ferreira - Desistindo de desistir!
 
 <div align="center">
   <a href="https://github.com/Hallef-Ferreira">
